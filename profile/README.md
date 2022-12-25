@@ -21,5 +21,5 @@ Check the contributing guidelines in each repository for guidance on how to get 
 ---
 
 ### Want to join the community?
-Join the CoolCommunity X GitHub Organisation by participating in discussion -> [1](https://github.com/orgs/coolcommunityx/discussions/1) (you will be sent an invitation)
+Join the CoolCommunity X GitHub Organisation by participating in discussion -> [join](https://github.com/orgs/coolcommunityx/discussions/1) (you will be sent an invitation)
 
