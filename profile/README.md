@@ -4,7 +4,7 @@
     </h1> 
 </div>
 
-![CoolCommunnity](https://raw.githubusercontent.com/coolcommunityx/coolcommunityx/main/Open%20Source.png)
+![CoolCommunnity](https://raw.githubusercontent.com/coolcommunityx/.github/main/profile/Open%20Source.png)
 
 <div align="center">
 CoolCommunityx is an open-source community. 
