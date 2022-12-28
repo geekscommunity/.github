@@ -1,10 +1,9 @@
-<div>
+<div align="center">
     <h1>
         Welcome to GeeksCommunity !
     </h1> 
 </div>
-
-![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/profile/join-now.png)
+ 
 
 <div align="center">
 CoolCommunityx is an open-source community. 
@@ -12,6 +11,9 @@ CoolCommunityx is an open-source community.
 </div>
 
 ---
+
+![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/profile/l3.png)
+![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/profile/l2.png)
 
 ### Want to contribute?
 
