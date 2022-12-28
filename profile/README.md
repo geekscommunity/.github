@@ -2,13 +2,7 @@
     <h1>
         Welcome to GeeksCommunity !
     </h1> 
-</div>
- 
-
-<div align="center">
-CoolCommunityx is an open-source community. 
-
-</div>
+</div> 
 
 ---
 
