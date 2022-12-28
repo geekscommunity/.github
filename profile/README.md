@@ -1,10 +1,10 @@
-<div align="center"background-color="powderblue">
+<div>
     <h1>
-        Welcome to Cool Community X!
+        Welcome to GeeksCommunity !
     </h1> 
 </div>
 
-![CoolCommunnity](https://raw.githubusercontent.com/coolcommunityx/.github/main/profile/Open%20Source.png)
+![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/profile/Build%20Awesome%20Projects%20Together%20in%20community.gif)
 
 <div align="center">
 CoolCommunityx is an open-source community. 
