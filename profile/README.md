@@ -1,4 +1,4 @@
-<div align="center" style="background-color:powderblue;">
+<div align="center"background-color="powderblue">
     <h1>
         Welcome to Cool Community X!
     </h1> 
