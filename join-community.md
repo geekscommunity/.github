@@ -1,4 +1,4 @@
-## Join our CoolCommunityX organization and contribute.
+## Join our GeeksCommunity organization and contribute.
 
 ### Simple steps to join:
 
