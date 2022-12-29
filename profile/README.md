@@ -6,7 +6,7 @@
 
 # Welcome to GeeksCommunity
 
-### Join or create coding clubs, interact with experts, explore, teach your skills to other members , participate in hackathons , get internships, and join Geekscommunity all for free! What are you waiting for?
+Join or create coding clubs, interact with experts, explore, teach your skills to other members , participate in hackathons , get internships, and join Geekscommunity all for free! What are you waiting for?
 
  <p float="left">
  <a href="https://chat.whatsapp.com/HJHJYCGqcmB1MQ9plJ9PuB"> <img src="https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/btn-1.png" height="50" /></a>
