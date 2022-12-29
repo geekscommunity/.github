@@ -1,7 +1,13 @@
 <div align="center">
  
  
-![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/page-4.png)
+![GeeksCommunnity](https://avatars.githubusercontent.com/u/121399569?s=200&v=4)
+
+<br>
+
+#Welcome to GeeksCommunity
+
+###Join or create coding clubs, interact with experts, explore, teach your skills to other members , participate in hackathons , get internships, and join Geekscommunity all for free! What are you waiting for?
 
  
 ---
