@@ -15,6 +15,16 @@ Join or create coding clubs, interact with experts, explore, teach your skills t
 </p>
 ---
 
+
+ <p> Here, right now on <b> your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community on the planet! </p>
+    <p> This organisation is the home of <i> open source</i>! Make Pull Requests, open Issues, share ideas, help each other and make improvements!</p>
+</div>
+<h2>Steps to get started</h2>
+<ol>
+    <li>Join the GeeksCommunity GitHub Org by raising an <a href="https://github.com/geekscommunity/.github/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">Invite</a></li>
+    <li> Join our GeeksCommunity <a href="https://discord.gg/tc7ZMtzy3K">Discord</a> community, where you can chat with the community and also ask any questions</li>
+ </ol>
+ 
 ![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/page-1.png)
 
 ---
