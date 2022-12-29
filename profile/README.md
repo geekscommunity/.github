@@ -6,7 +6,7 @@
 
 ---
 
-![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/profile/l3.png)
+![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/page-1.png)
 
 ---
 
@@ -16,7 +16,7 @@ That's great! We welcome all sorts of contributions from raising issues, startin
 Check the contributing guidelines in each repository for guidance on how to get started.
 
  
-![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/profile/l2.png)
+![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/page-2.png)
 
  
 
@@ -24,4 +24,4 @@ Check the contributing guidelines in each repository for guidance on how to get 
 Join the CoolCommunity X GitHub Organisation by participating in discussion -> [join](https://github.com/orgs/coolcommunityx/discussions/1) (you will be sent an invitation)
 
 
-![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/profile/join-now.png)
+![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/page-3.png)
