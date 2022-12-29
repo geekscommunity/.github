@@ -1,9 +1,7 @@
 <div align="center">
-    <h1>
-        Welcome to GeeksCommunity !
-    </h1> 
-</div> 
+   ![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/page-4.png)
 
+ 
 ---
 
 ![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/page-1.png)
@@ -25,3 +23,4 @@ Join the CoolCommunity X GitHub Organisation by participating in discussion -> [
 
 
 ![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/page-3.png)
+</div> 
