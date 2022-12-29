@@ -3,15 +3,14 @@
  
 ![GeeksCommunnity](https://avatars.githubusercontent.com/u/121399569?s=200&v=4)
 
-<br>
 
 # Welcome to GeeksCommunity
 
 ### Join or create coding clubs, interact with experts, explore, teach your skills to other members , participate in hackathons , get internships, and join Geekscommunity all for free! What are you waiting for?
 
  <p float="left">
-  <img src="https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/btn-1.png" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/btn-2.png" height="50" /> 
+ <a href="https://chat.whatsapp.com/HJHJYCGqcmB1MQ9plJ9PuB"> <img src="https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/btn-1.png" height="50" /></a>
+  <a href="https://discord.gg/tc7ZMtzy3K"> <img src="https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/btn-2.png" height="50" /> </a>
  
 </p>
 ---
