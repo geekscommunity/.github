@@ -9,7 +9,11 @@
 
 ### Join or create coding clubs, interact with experts, explore, teach your skills to other members , participate in hackathons , get internships, and join Geekscommunity all for free! What are you waiting for?
 
+ <p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/btn-1.png" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/btn-1.png" width="100" /> 
  
+</p>
 ---
 
 ![GeeksCommunnity](https://cdn.jsdelivr.net/gh/geekscommunity/.github@main/image/page-1.png)
